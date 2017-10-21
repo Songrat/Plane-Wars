@@ -1,5 +1,3 @@
-# hello-word
-Just another respository
-
-i'm songrat, i like it.
-yes
+# 飞机大战
+ 
+飞机大战简单程序
